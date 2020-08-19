@@ -1,0 +1,4 @@
+task ansible_host=192.168.50.4
+
+[trail]
+task
